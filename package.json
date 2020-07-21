@@ -1,0 +1,13 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Siddharth Kundu <sk31395@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  }
+}
